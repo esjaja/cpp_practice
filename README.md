@@ -1,26 +1,46 @@
 
-# CPP Practice - learning map
+# CPP Practice - directory contents
 
-## dir: pointer
+## \pointer
 - postfix and prefix ++ : *p++ vs ++*p ...
 - and the order of * and ++
 - also ()
 
-## dir: byteOrder 
+## \byteOrder 
 - little endian, big endian, network byte order
 - union
 
-## dir: enum
+## \enum
 - the declaration and use 
 
-## dir: const
+## \const
 - const pointer: the order of syntax
 
-## dir: const function
+## \constFunction
 - function return const type
 - const type as function parameter
 - change the address pointer store & change the value the pointer point to
 
-## dir: callBy
+## \callBy
 - call by value, call by address
 - call by reference
+
+## \functionPointer
+- declaration of function pointer
+- typedef a function pointer
+
+## \template
+- function pointer template
+- class template
+- template specialization
+
+## \class
+- class declaration
+- class template
+
+
+## \memcpy
+- strcpy vs memcpy
+
+## \LinkedList
+- define linked list class
